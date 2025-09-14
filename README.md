@@ -1,21 +1,21 @@
-# 💫 About Me:
 1) I’m currently working on:<br>
-YOLOv8-based accident detection and an agri-tech app enabling farmers to access direct markets via real-time bidding.<br><br>
+AI-driven systems, including a YOLOv8-based real-time accident detection model and an agri-tech app that enables farmers to access direct markets through ML-powered bidding.<br><br>
 
 2) I am looking to collaborate on:<br>
-Machine learning and computer vision projects with real-world impact.<br><br>
+Machine learning, computer vision, and AI projects that address real-world challenges and create measurable social impact.<br><br>
 
-3) I am looking for help with:<br>
-Scaling AI models and optimizing system design for production environments.<br><br>
+3) I am seeking guidance with:<br>
+Optimizing system architecture, deploying AI models at scale, and improving production-level performance of ML workflows.<br><br>
 
 4) I am currently learning:<br>
-Cloud technologies (AWS), FastAPI, and advanced ML workflows using Apache Airflow.<br><br>
+Cloud computing (AWS), FastAPI, MLOps pipelines, and advanced workflows with Apache Airflow for scalable AI deployments.<br><br>
 
 5) Ask me about:<br>
-YOLOv8, computer vision, Python, and deploying real-time AI systems.<br><br>
+YOLOv8, CNNs, Random Forest, Python, PyTorch, scikit-learn, FastAPI, and deploying real-time AI solutions.<br><br>
 
-6) Achievement:<br>
-Co-authored a research project that increased farmers’ incomes by 20%, accepted at SmartCom 2025.
+6) Achievements:<br>
+Published research in IEEE and Springer conferences, led projects like **Kisan Mitra** to improve farmer transaction efficiency by 40%, and built production-ready AI services for news summarization and sentiment analysis.
+
 
 
 
