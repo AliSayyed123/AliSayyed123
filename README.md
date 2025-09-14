@@ -1,5 +1,22 @@
 # 💫 About Me:
-1) I’m currently working on:<br>AI-driven projects like accident detection using YOLOv8 and an agri-tech app that helps farmers access direct markets via real-time bidding.<br><br>2) I am looking to collaborate on:<br>ML, computer vision, or mobile projects that solve real-world problems and drive social impact.<br><br>3) I am looking for help with:<br>Improving system design and scaling AI models in production environments.<br><br>4) I am currently learning:<br>Cloud technologies (AWS), FastAPI, and advanced ML workflows with tools like Apache Airflow.<br><br>5) Ask me about:<br>YOLOv8, computer vision, Python, Flutter, or deploying real-time AI systems.<br><br>6) Fun fact:<br>A research project I co-authored helped farmers boost their income by 20% and was accepted at SmartCom 2025!
+1) I’m currently working on:<br>
+YOLOv8-based accident detection and an agri-tech app enabling farmers to access direct markets via real-time bidding.<br><br>
+
+2) I am looking to collaborate on:<br>
+Machine learning and computer vision projects with real-world impact.<br><br>
+
+3) I am looking for help with:<br>
+Scaling AI models and optimizing system design for production environments.<br><br>
+
+4) I am currently learning:<br>
+Cloud technologies (AWS), FastAPI, and advanced ML workflows using Apache Airflow.<br><br>
+
+5) Ask me about:<br>
+YOLOv8, computer vision, Python, and deploying real-time AI systems.<br><br>
+
+6) Achievement:<br>
+Co-authored a research project that increased farmers’ incomes by 20%, accepted at SmartCom 2025.
+
 
 
 ## 🌐 Socials:
