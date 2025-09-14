@@ -1,3 +1,4 @@
+# About Me
 1) I’m currently working on:<br>
 AI-driven systems, including a YOLOv8-based real-time accident detection model and an agri-tech app that enables farmers to access direct markets through ML-powered bidding.<br><br>
 
