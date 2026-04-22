@@ -43,9 +43,9 @@ open_to: Research roles, MLE positions, anything computer vision
 
 ### A couple things I've shipped
 
-**Object Detection in Adverse Weather** — trained YOLOv11m and YOLOv12 on fog, rain, snow, storm. 0.829 mAP. The goal was simple: build something that still works when the weather doesn't cooperate. [[GitHub](#)]
+**Object Detection in Adverse Weather** — trained YOLOv11m and YOLOv12 on fog, rain, snow, storm. 0.829 mAP. The goal was simple: build something that still works when the weather doesn't cooperate. 
 
-**Automated Book Publication Pipeline** — scraping, rewriting, versioning, semantic search, all chained together. No more "wait which draft was that?" [[GitHub](#)]
+**Automated Book Publication Pipeline** — scraping, rewriting, versioning, semantic search, all chained together. No more "wait which draft was that?" 
 
 ---
 
@@ -54,7 +54,7 @@ open_to: Research roles, MLE positions, anything computer vision
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliSayyed123&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -62,9 +62,9 @@ open_to: Research roles, MLE positions, anything computer vision
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_HANDLE)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/ali-nadeem-sayyed))
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)]([https://kaggle.com/YOUR_HANDLE](https://www.kaggle.com/alisayed0987654321))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)]([https://leetcode.com/YOUR_HANDLE](https://www.linkedin.com/in/ali-nadeem-sayyed))
 [![Mail](https://img.shields.io/badge/alisayyed9a@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alisayyed9a@gmail.com)
 
 </div>
