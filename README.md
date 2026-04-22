@@ -45,7 +45,7 @@ open_to: Research roles, MLE positions, anything computer vision
 
 **Object Detection in Adverse Weather** — trained YOLOv11m and YOLOv12 on fog, rain, snow, storm. 0.829 mAP. The goal was simple: build something that still works when the weather doesn't cooperate. 
 
-**Automated Book Publication Pipeline** — scraping, rewriting, versioning, semantic search, all chained together. No more "wait which draft was that?" 
+**Automated Book Publication Pipeline** — scraping, rewriting, versioning, semantic search, all chained together. No more "wait, which draft was that?" 
 
 ---
 
