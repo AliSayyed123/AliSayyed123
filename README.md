@@ -64,7 +64,7 @@ open_to: Research roles, MLE positions, anything computer vision
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-nadeem-sayyed)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/alisayed0987654321)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)]([https://leetcode.com/ali-nadeem-sayyed])
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/ali-nadeem-sayyed)
 [![Mail](https://img.shields.io/badge/alisayyed9a@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alisayyed9a@gmail.com)
 
 </div>
